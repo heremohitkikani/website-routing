@@ -1,0 +1,333 @@
+/* =============================slider start============================================== */
+@media (max-width:576px) {
+    .top-none {
+        display: none;
+    }
+    
+
+    .slider-div p {
+        font-size: 20px !important;
+        padding: 0px 0;
+        /* line-height: 90px; */
+    }
+
+    .slider-div button {
+        margin-top: 5px !important;
+    }
+
+    .slider-div button a {
+        padding: 6px 10px !important;
+        font-size: 10px;
+    }
+
+    .slider-div h1 {
+        font-size: 20px !important;
+    }
+
+    .top-info {
+        padding: 15px 0;
+    }
+}
+
+@media (min-width:576px) {
+    .slider-div p {
+        font-size: 30px !important;
+        padding: 10px 0;
+        line-height: 10px;
+        
+    }
+    .containerr{
+        /* margin: 0px !important; */
+
+    }
+
+    .slider-div h1 {
+        font-size: 20px !important;
+
+    }
+
+    .slider-div button {
+        margin-top: 15px !important;
+    }
+
+    .slider-div button a {
+        padding: 10px 20px !important;
+
+
+    }
+}
+
+@media (min-width:768px) {
+    .slider-div p {
+        font-size: 50px !important;
+        padding: 10px 0;
+        line-height: 30px;
+
+    }
+
+    .slider-div h1 {
+        font-size: 30px !important;
+
+    }
+
+    .slider-div button a {
+        padding: 15px 35px !important;
+        margin-top: 0px;
+
+    }
+
+    .slider-div button {
+        margin-top: 20px !important;
+    }
+}
+
+@media (min-width:992px) {
+    .slider-div p {
+        font-size: 90px !important;
+        padding: 10px 0;
+        line-height: 90px;
+
+    }
+
+    .slider-div h1 {
+        font-size: 40px !important;
+
+    }
+
+    .slider-div button a {
+        padding: 20px 40px !important;
+
+    }
+
+    .slider-div button {
+        margin-top: 30px !important;
+    }
+
+}
+
+@media (min-width:1200px) {
+    .slider-div p {
+        font-size: 100px !important;
+        padding: 10px 0;
+    }
+
+    .slider-div h1 {
+        font-size: 40px !important;
+
+    }
+}
+
+/* =============================slider end============================================== */
+
+/* =============================about  start============================================== */
+@media (max-width:576px) {
+    .about img.about1 {
+        height: 170px;
+        width: 250px;
+        /* margin-left: 140px; */
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width:576px) {
+    .about img.about1 {
+        height: 170px;
+        width: 250px;
+        /* margin-left: 140px; */
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (min-width:768px) {
+    .about img.about1 {
+        height: 170px;
+        width: 250px;
+        /* margin-left: 00px; */
+        margin-bottom: 0px;
+        margin-top: 80px;
+    }
+
+}
+
+@media (min-width:992px) {
+    .about img.about1 {
+        height: 290px;
+        width: 456px;
+        /* margin-left: 0px; */
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:1200px) {
+    .about img.about1 {
+        height: 390px;
+        width: 556px;
+    }
+}
+
+/* =============================about  end============================================== */
+
+/* =============================section third  start============================================== */
+@media (max-width:576px) {}
+
+@media (min-width:576px) {
+    .third-sec img {
+        width: 70px;
+        margin-left: -30%;
+    }
+
+    .third-sec h1 {
+        font-size: 60px;
+        font-weight: 800;
+        color: #777e92;
+    }
+
+    .third-sec {
+        height: 850px;
+    }
+}
+
+@media (min-width:768px) {
+    .third-sec {
+        height: 500px;
+    }
+
+}
+
+@media (min-width:992px) {
+    .third-sec {
+        height: 340px;
+    }
+}
+
+@media (min-width:1200px) {
+    .third-sec h1 {
+        font-size: 80px;
+        font-weight: 800;
+        color: #777e92;
+    }
+
+    .third-sec img {
+        width: 100px;
+        margin-left: -30%;
+    }
+
+    .third-sec {
+        height: 370px;
+    }
+}
+
+/* =============================third section  end============================================== */
+/* ===========================================our clients start========================================= */
+@media (max-width:576px) {
+    .item2 {
+        padding: 10px 50px 30px 50px;
+
+    }
+    .our-clients {
+        height: 650px !important;
+        object-fit: cover;
+        overflow: hidden;
+      }
+    .cli-img2{
+        right: 0;
+        bottom: 0;
+      }
+      .cli-img1{
+        left: 0;
+        bottom: 0;
+        width: 100%;
+      }
+      .slider2 p{
+        font-size: 15px;
+      }
+
+    .sli2-div {
+        margin-left: 10%;
+    }
+
+    .slider2.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -30% !important;
+    }
+
+    .slider2.owl-carousel .owl-nav button.owl-next {
+        margin-right: -30% !important;
+    }
+}
+@media (max-width:776px) {
+   
+    .our-clients {
+        height: 650px !important;
+        object-fit: cover;
+        overflow: hidden;
+      }
+    }
+
+@media (min-width:576px) {
+    .item2 {
+        padding: 30px 50px 30px 50px;
+
+    }
+    .slider2 p{
+        font-size: 20px;
+      }
+
+    .sli2-div {
+        margin-left: 13%;
+    }
+
+    .slider2.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -30% !important;
+    }
+
+    .slider2.owl-carousel .owl-nav button.owl-next {
+        margin-right: -30% !important;
+    }
+}
+
+@media (min-width:768px) {
+    .item2 {
+        padding: 50px 60px 60px 60px;
+
+    }
+
+    .sli2-div {
+        margin-left: 22%;
+    }
+}
+
+@media (min-width:992px) {
+    .item2 {
+        padding: 70px 80px 80px 80px;
+
+    }
+
+    .sli2-div {
+        margin-left: 26%;
+    }
+    .slider2.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -20% !important;
+    }
+
+    .slider2.owl-carousel .owl-nav button.owl-next {
+        margin-right: -20% !important;
+    }
+}
+
+@media (min-width:1200px) {
+    .sli2-div {
+        margin-left: 33%;
+    }
+}
+
+/* ===========================================our clients end========================================= */
+/* ===========================================best farmer start========================================= */
+@media (max-width:576px) {
+    .item3 img{
+        width: 300px !important;
+        height: 330px;
+      }
+}
+/* ===========================================best farmer end========================================= */
